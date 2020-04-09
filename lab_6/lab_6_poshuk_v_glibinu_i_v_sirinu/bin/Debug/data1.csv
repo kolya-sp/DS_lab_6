@@ -1,0 +1,7 @@
+test obhid grafa: 
+ data; DFS(v glubinu); BFS(vshirinu)
+1000;23;15
+2000;94;65
+3000;227;153
+4000;352;232
+5000;548;360

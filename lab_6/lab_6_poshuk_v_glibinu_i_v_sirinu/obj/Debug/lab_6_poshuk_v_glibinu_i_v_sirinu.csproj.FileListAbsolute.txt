@@ -1,0 +1,6 @@
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\bin\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.exe.config
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\bin\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\bin\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.pdb
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\obj\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\obj\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_6\lab_6_poshuk_v_glibinu_i_v_sirinu\obj\Debug\lab_6_poshuk_v_glibinu_i_v_sirinu.pdb
